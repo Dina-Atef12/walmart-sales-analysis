@@ -106,3 +106,12 @@ data/processed/*
 # Reports
 # reports/figures/*
 # !reports/figures/.gitkeep
+
+# Project documentation / internal files
+AUDIT_SUMMARY.md
+GIT_COMMITS.md
+PROFESSIONAL_AUDIT_REPORT.md
+PUBLISHING_CHECKLIST.md
+START_HERE.md
+RESUME_BULLETS.md
+LINKEDIN_POST.md
