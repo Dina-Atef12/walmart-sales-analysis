@@ -167,11 +167,11 @@ jupyter notebook
 
 ### Store Performance Ranking
 
-![Store Performance](reports\figures\02_store_performance.png)
+![Store Performance](reports/figures/02_store_performance.png)
 
 ### Holiday Sales Impact
 
-![Holiday Impact](reports\figures\03_holiday_impact.png)
+![Holiday Impact](reports/figures/03_holiday_impact.png)
 
 ### Correlation Heatmap
 
